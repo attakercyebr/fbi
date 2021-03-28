@@ -1,3 +1,57 @@
+📌 This software does not belong to me @xHak9x, it was written by this person, I updated it and fixed all its problems.
+
+📌 No need for Python to run on Windows
+
+📌 Coding with python3 +
+
+📌 That I solved the problems and related cases
+
+📌 Problems were solved
+
+📌 Run with Python 3+
+
+📌 No blocking the account
+
+📌 Proper implementation of Phone Scraper
+
+📌 Proper implementation of Email Scraper
+
+📌 Changes in code and structure
+
+📌 Several modules added
+
+📌 Version 1 beta.
+
+Note:
+📌 Do not use your original Facebook account.
+📌 Do not use for 48 hours when you create a Facebook account.
+📌 Use of the tool is only allowed every 1 hour, more than that is your responsibility.
+📌 It is better to use in a virtual server.
+📌 It is better to tunnel the whole system with a hidden network.
+Disclaimer:
+📌 This tool is designed and developed for professionals and researchers. So do not target others and do not test them for no reason :)
+See how it works v1.0.0
+🔞 V1.0..0 https://youtu.be/JPcw4odkRwU
+How to ger:
+📌 Visit our channel or our site to download .
+
+🔞 https://m4nifest0.com
+
+🔞 https://m4nifest0.group
+
+🔞 https://m4nifest0.shop
+
+🔞 https://t.me/M4nifest0
+
+- 📌 Get the tool via the links below
+                                  
+
+📌 Our team specializes in the following programming languages:...
+       
+
+
+
+
 
 
 ```
