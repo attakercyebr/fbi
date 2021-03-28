@@ -27,6 +27,13 @@
 
 📌 Version 1 beta.
 
+# Note:
+----------------------
+- 📌 Do not use your original Facebook account.
+- 📌 Do not use for 48 hours when you create a Facebook account.
+- 📌 Use of the tool is only allowed every 1 hour, more than that is your responsibility.
+- 📌 It is better to use in a virtual server.
+- 📌 It is better to tunnel the whole system with a hidden network.
 
 # Disclaimer:
 ----------------------
